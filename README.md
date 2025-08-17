@@ -3,7 +3,7 @@
 <div align="center">
 
 # 🖥️ GADDAM VIVEK CHANDRA REDDY
-### 『 Backend Developer • AI/ML Enthusiast • Cyberpunk Coder 』
+### 『 Backend Developer • AI/ML Enthusiast • Full Stack Developer 』
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24&height=180&section=header&text=Welcome%20To%20The%20Matrix&fontSize=28&fontColor=00FF00&animation=fadeIn&fontAlignY=32" width="100%"/>
 
