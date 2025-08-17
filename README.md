@@ -1,81 +1,86 @@
-<!-- Profile README for Vivek Chandra Reddy -->
+<!-- Profile README for Gaddam Vivek Chandra Reddy -->
 
-<h1 align="center">Hey 👋, I'm Vivek Chandra Reddy</h1>
-<h3 align="center">🚀 Developer | 🖥️ Backend Engineer | 🤖 AI/ML Enthusiast</h3>
+<h1 align="center">⚡ Hey, I'm Gaddam Vivek Chandra Reddy ⚡</h1>
+<h3 align="center">🚀 Backend Developer | 🤖 AI/ML Enthusiast | 💜 Cyberpunk Coder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ff79c6&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Web+Developer;AI+%26+ML+Explorer;Startup+Enthusiast+%26+Problem+Solver;Always+learning+new+things+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=650&lines=Backend+Engineer+%7C+AI%2FML+Explorer;700%2B+LeetCode+Problems+Solved;JPMC+CFG+Runner+Up;Ex-Backend+Intern+at+Ploch+AI;Always+learning+%26+building+cool+stuff+🚀" />
 </p>
 
 ---
 
-### 🌟 About Me  
+## 🌌 About Me  
 
-- 🎓 Computer Science Student @ **CBIT Hyderabad**  
-- 💻 Backend Developer with **Python, Node.js, MongoDB, MySQL**  
-- 🤖 Exploring **AI, ML, and Agentic AI**  
-- 🚀 Built projects like:
-  - **DocuSearch** → AI-powered document retrieval assistant  
-  - **ShareEAT** → Recipe-sharing platform (like Instagram for food)  
-  - **Food Donation Platform** → Donors, volunteers & hunger spots matched with geospatial queries  
-  - **Custom College Dashboard** → Attendance & ERP integration with MERN + Puppeteer  
-- ✍️ Technical Blogger & Open Source Contributor  
-- ⚡ Fun fact: I love building products that make a difference 🌍  
+- 🎓 CSE Student @ **CBIT Hyderabad**  
+- 💻 Passionate **Backend Developer** (Python, Node.js, MongoDB, MySQL)  
+- 🤖 Exploring **AI, ML & Agentic AI**  
+- 🏆 **Achievements**:
+  - 🥈 JPMC Code For Good **Runner-up**  
+  - 📈 Solved **700+ problems** on LeetCode  
+  - 💼 Ex-**Backend Intern @ Ploch AI**  
+- 🚀 I love building projects that make a real impact 🌍  
+- ✨ Fun fact: My vibe is pure **cyberpunk energy** ⚡💜  
 
 ---
 
-### 🛠️ Tech Stack  
+## 🛠️ Tech Stack  
 
-#### 👨‍💻 Programming Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffdd00?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-b07219?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
+#### 👨‍💻 Languages  
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=ffde57)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=00ffff)
+![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=c%2B%2B&logoColor=ff00ff)
+![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java&logoColor=ffde57)
+![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=mysql&logoColor=00ffff)
 
 #### 🧰 Frameworks & Libraries  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=openai&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express.js](https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=express&logoColor=ffffff)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=00ffff)
+![LangChain](https://img.shields.io/badge/-LangChain-000?style=for-the-badge&logo=openai&logoColor=ff00ff)
+![NumPy](https://img.shields.io/badge/-NumPy-000?style=for-the-badge&logo=numpy&logoColor=61DAFB)
+![Pandas](https://img.shields.io/badge/-Pandas-000?style=for-the-badge&logo=pandas&logoColor=ffde57)
 
 #### 🗄️ Databases & Cloud  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=00ff00)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql&logoColor=00ffff)
+![Redis](https://img.shields.io/badge/-Redis-000?style=for-the-badge&logo=redis&logoColor=ff0000)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?style=for-the-badge&logo=rabbitmq&logoColor=ff6600)
 
 #### 💻 Tools & Platforms  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker&logoColor=00ffff)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=postman&logoColor=ff6600)
+![VS Code](https://img.shields.io/badge/-VSCode-000?style=for-the-badge&logo=visualstudiocode&logoColor=00ffff)
 
 ---
 
-### 📊 GitHub Stats  
+## 📊 GitHub Stats (Cyberpunk Mode)  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivekreddy&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekreddy&theme=radical" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekreddy&layout=compact&theme=radical" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VivekGaddam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=ff00ff&icon_color=00ffff&text_color=ffffff" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VivekGaddam&theme=tokyonight&hide_border=true&background=000000&ring=ff00ff&fire=ff00ff&currStreakLabel=00ffff" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekGaddam&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=ff00ff&text_color=ffffff" height="170"/>
 </p>
 
 ---
 
-### 🔥 Visitors  
+## 🔥 Visitors  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vivekreddy&color=blueviolet&style=flat-square&label=Profile+Views" alt="visitors" />
+  <img src="https://komarev.com/ghpvc/?username=VivekGaddam&color=ff00ff&style=for-the-badge&label=👁️+Profile+Views" alt="visitors" />
 </p>
 
 ---
 
-### 🚀 Connect with Me  
+## 🌐 Connect with Me  
+
 <p align="center">
-  <a href="mailto:vivekchandrareddy@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/vivek-chandra-reddy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/vivekreddy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:vivekgaddam02@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=ff0000"></a>
+  <a href="https://www.linkedin.com/in/gaddamvivekchandrareddy/"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"></a>
+  <a href="https://vivekgaddam.onrender.com"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=00ffff"></a>
+  <a href="https://github.com/VivekGaddam"><img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=ffffff"></a>
+  <a href="https://leetcode.com/u/vivekgaddam/"><img src="https://img.shields.io/badge/-LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=ffde57"></a>
 </p>
