@@ -79,7 +79,7 @@ $ cat /var/log/achievements.log
 
 ---
 
-## 📊 MATRIX STATISTICS (CYBERPUNK MODE)
+## 📊 MATRIX STATISTICS 
 
 <div align="center">
 
