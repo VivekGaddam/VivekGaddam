@@ -21,7 +21,7 @@ I'm a passionate Computer Science student at CBIT Hyderabad, specializing in bac
 
 **Languages**
 ```
-Python  •  JavaScript  •  C++  •  Java  •  SQL
+Python  •  JavaScript    •  Java  •  SQL
 ```
 
 **Backend & Frameworks**
@@ -36,12 +36,12 @@ React  •  HTML  •  CSS
 
 **Databases & Messaging**
 ```
-MongoDB  •  MySQL  •  Redis  •  RabbitMQ
+MongoDB  •  MySQL    •  RabbitMQ
 ```
 
 **DevOps & Tools**
 ```
-Docker  •  Kubernetes  •  Git  •  Postman  •  VS Code
+Docker    •  Git  •  Postman  •  VS Code
 ```
 
 **Data Science & ML**
@@ -68,7 +68,7 @@ NumPy  •  Pandas  •  Machine Learning  •  AI
 
 - 🥈 **JPMorgan Chase Code For Good** - Runner-up
 - 📈 **LeetCode** - Solved 700+ algorithmic problems
-- 💼 **Backend Development** - Built scalable microservices at Ploch AI
+- 💼 **Backend Development** - Built scalable microservices at Plotch AI
 - 🎯 **Open Source** - Active contributor to various projects
 
 ---
