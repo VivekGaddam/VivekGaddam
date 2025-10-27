@@ -9,7 +9,7 @@ I'm a passionate Computer Science student at CBIT Hyderabad, specializing in bac
 ### 🚀 About Me
 
 - 🎓 **Education:** CSE Student at CBIT Hyderabad
-- 💼 **Experience:** Ex-Backend Intern at Ploch AI
+- 💼 **Experience:** Ex-Backend Intern at Plotch AI
 - 🏆 **Achievement:** Runner-up at JPMorgan Chase Code For Good Hackathon
 - 💡 **Problem Solver:** 700+ problems solved on LeetCode
 - 🌱 **Currently Learning:** Agentic AI and Advanced System Design
