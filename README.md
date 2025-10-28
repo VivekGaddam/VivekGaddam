@@ -2,7 +2,7 @@
 
 ## Backend Developer | AI/ML Enthusiast | Full Stack Developer
 
-I'm a passionate Computer Science student at CBIT Hyderabad, specializing in backend development and exploring the exciting world of Artificial Intelligence and Machine Learning. I love building scalable solutions and solving complex problems.
+I'm a passionate Computer Science student at CBIT Hyderabad, specializing in FullStack development and exploring the exciting world of Artificial Intelligence and Machine Learning. I love building scalable solutions and solving complex problems.
 
 ---
 
