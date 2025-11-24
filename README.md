@@ -12,7 +12,7 @@ I'm a passionate Computer Science student at CBIT Hyderabad, specializing in Ful
 - 💼 **Experience:** Ex-Backend Intern at Plotch AI
 - 🏆 **Achievement:** Runner-up at JPMorgan Chase Code For Good Hackathon
 - 💡 **Problem Solver:** 700+ problems solved on LeetCode
-- 🌱 **Currently Learning:** Agentic AI and Advanced System Design
+- 🌱 **Currently Learning:** Agentic AI
 - 📫 **Reach me:** [vivekgaddam02@gmail.com](mailto:vivekgaddam02@gmail.com)
 
 ---
