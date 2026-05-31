@@ -1,6 +1,6 @@
 # Hi, I'm Gaddam Vivek Chandra Reddy 👋
 
-## Backend Developer | AI/ML Enthusiast | Full Stack Developer
+## AI Engineer|Backend Developer | AI/ML Enthusiast | Full Stack Developer
 
 I'm a passionate Computer Science student at CBIT Hyderabad, specializing in FullStack development and exploring the exciting world of Artificial Intelligence and Machine Learning. I love building scalable solutions and solving complex problems.
 
@@ -84,7 +84,7 @@ NumPy  •  Pandas  •  Machine Learning  •  AI
 
 ### 💼 Professional Summary
 
-Backend-focused developer with a strong foundation in building scalable web applications and microservices. Experienced in designing RESTful APIs, implementing message queues, and optimizing database performance. Passionate about clean code, system design, and leveraging AI/ML to solve real-world problems.
+AI-focused developer with a strong foundation in building scalable web applications and microservices. Experienced in designing RESTful APIs, implementing message queues, and optimizing database performance. Passionate about clean code, system design, and leveraging AI/ML to solve real-world problems.
 
 **Core Competencies:**
 - Backend Architecture & API Development
@@ -92,6 +92,7 @@ Backend-focused developer with a strong foundation in building scalable web appl
 - Microservices & Distributed Systems
 - Problem Solving & Data Structures
 - AI/ML Integration
+- RAG,Agentic GenAI fundamentals
 
 ---
 
